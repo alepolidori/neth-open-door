@@ -1,0 +1,11 @@
+.big-btn {
+  width: 300px;
+  height: 200px;
+  font-size: 5em;
+  color: white;
+  background: red;
+}
+
+.hide {
+  display: none;
+}
